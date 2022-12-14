@@ -41,4 +41,4 @@ python3 ./custom_model/custom_model.py
 ```
 The model will run against the data stored in the JSON file `/custom_model/sf10_training_data_long.json`, tuning for the parameters specified in `/custom_model/params_sf10.json`.
 
-Logs will be contained in the `/custom_model/logs` directory. After processing and training, should observe a print-out of the candidate parameter combination for low execution times.
+Logs will be contained in the `/custom_model/logs` directory. After processing and training, should observe a print-out of the candidate parameter combinations for low execution times.
